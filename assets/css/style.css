@@ -42,9 +42,33 @@ body{
 	border-radius:5px; 
 }
 /*Header end*/
+
+/*slider start*/
 .slider{
 	width:100%;
 	height:400px;
 	background-image:url(http://www.bteb.gov.bd/sites/default/files/files/bteb.portal.gov.bd/top_banner/7699e582_282e_47e5_b32d_ec8847a6fbc1/banner_5.jpg);
 	background-repeat: round;
 }
+/*slider end*/
+/*navbar start*/
+.menubar{
+  background-color: #FAFAFA;
+  overflow: hidden; 
+}
+.menubar a {
+  float: left;
+  color: red;
+  text-align: center;
+  padding: 15px 23px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom:1px dotted #ccc;
+  border-left:1px dotted #ccc;
+  border-right:1px dotted #ccc;
+  }
+ .menubar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/*Navbar end*/
