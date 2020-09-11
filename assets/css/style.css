@@ -8,6 +8,7 @@ body{
 	margin:0 auto;
 	width:1200px;
 }
+/*header start*/
 .header{
 	display:flex;
 	justify-content:space-between;
@@ -40,8 +41,10 @@ body{
 	height: 25px;
 	border-radius:5px; 
 }
+/*Header end*/
 .slider{
-	width:500px;
-	height:250px;
-	background-repeat:;
+	width:100%;
+	height:400px;
+	background-image:url(http://www.bteb.gov.bd/sites/default/files/files/bteb.portal.gov.bd/top_banner/7699e582_282e_47e5_b32d_ec8847a6fbc1/banner_5.jpg);
+	background-repeat: round;
 }
