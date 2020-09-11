@@ -72,3 +72,13 @@ body{
   color: black;
 }
 /*Navbar end*/
+/*Main content Start*/
+.main-content{
+	display:flex;
+	overflow:hidden;
+}
+.content{
+	flex:100%;
+	background: transparent;
+	overflow:hidden;
+
